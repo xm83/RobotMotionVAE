@@ -5,3 +5,5 @@ Social robots often need to operate with and around groups of people, including 
 
 ### Links:
 [CPSC490 Final Report](../CPSC490_FinalReport_SallyMa.pdf)
+[Demo Video](https://youtu.be/0qVAxCz91-Q)
+[Source Code](https://drive.google.com/uc?export=download&id=1rboGXaRxAxFfjGJ8VOtPXw8Us4BrVBAM)
